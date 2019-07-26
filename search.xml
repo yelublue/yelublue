@@ -4,37 +4,11 @@
   
     
     <entry>
-      <title>hahaha</title>
-      <link href="/2019/07/26/hahaha/"/>
-      <url>/2019/07/26/hahaha/</url>
+      <title>暂时先这样吧</title>
+      <link href="/2019/07/26/%E6%9A%82%E6%97%B6%E5%85%88%E8%BF%99%E6%A0%B7%E5%90%A7/"/>
+      <url>/2019/07/26/%E6%9A%82%E6%97%B6%E5%85%88%E8%BF%99%E6%A0%B7%E5%90%A7/</url>
       
-        <content type="html"><![CDATA[<h1 id="欢迎使用-Markdown在线编辑器-MdEditor"><a href="#欢迎使用-Markdown在线编辑器-MdEditor" class="headerlink" title="欢迎使用 Markdown在线编辑器 MdEditor"></a>欢迎使用 Markdown在线编辑器 MdEditor</h1><p><strong>Markdown是一种轻量级的「标记语言」</strong></p><p><img src="https://www.mdeditor.com/images/logos/markdown.png" alt="markdown" title="markdown"></p><p>Markdown是一种可以使用普通文本编辑器编写的标记语言，通过简单的标记语法，它可以使普通文本内容具有一定的格式。它允许人们使用易读易写的纯文本格式编写文档，然后转换成格式丰富的HTML页面，Markdown文件的后缀名便是“.md”</p><h2 id="MdEditor是一个在线编辑Markdown文档的编辑器"><a href="#MdEditor是一个在线编辑Markdown文档的编辑器" class="headerlink" title="MdEditor是一个在线编辑Markdown文档的编辑器"></a>MdEditor是一个在线编辑Markdown文档的编辑器</h2><p><em>MdEditor扩展了Markdown的功能（如表格、脚注、内嵌HTML等等），以使让Markdown转换成更多的格式，和更丰富的展示效果，这些功能原初的Markdown尚不具备。</em></p><blockquote><p>Markdown增强版中比较有名的有Markdown Extra、MultiMarkdown、 Maruku等。这些衍生版本要么基于工具，如<del>Pandoc</del>，Pandao；要么基于网站，如GitHub和Wikipedia，在语法上基本兼容，但在一些语法和渲染效果上有改动。</p></blockquote><p>MdEditor源于Pandao的JavaScript开源项目，开源地址<a href="https://github.com/pandao/editor.md" title="Editor.md" target="_blank" rel="noopener">Editor.md</a>，并在MIT开源协议的许可范围内进行了优化，以适应广大用户群体的需求。向优秀的markdown开源编辑器原作者Pandao致敬。</p><a id="more"></a><p><img src="https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png" alt="Pandao editor.md" title="Pandao editor.md"></p><h2 id="MdEditor的功能列表演示"><a href="#MdEditor的功能列表演示" class="headerlink" title="MdEditor的功能列表演示"></a>MdEditor的功能列表演示</h2><h1 id="标题H1"><a href="#标题H1" class="headerlink" title="标题H1"></a>标题H1</h1><h2 id="标题H2"><a href="#标题H2" class="headerlink" title="标题H2"></a>标题H2</h2><h3 id="标题H3"><a href="#标题H3" class="headerlink" title="标题H3"></a>标题H3</h3><h4 id="标题H4"><a href="#标题H4" class="headerlink" title="标题H4"></a>标题H4</h4><h5 id="标题H5"><a href="#标题H5" class="headerlink" title="标题H5"></a>标题H5</h5><h6 id="标题H5-1"><a href="#标题H5-1" class="headerlink" title="标题H5"></a>标题H5</h6><h3 id="字符效果和横线等"><a href="#字符效果和横线等" class="headerlink" title="字符效果和横线等"></a>字符效果和横线等</h3><hr><p><del>删除线</del> <s>删除线（开启识别HTML标签时）</s></p><p><em>斜体字</em>      <em>斜体字</em></p><p><strong>粗体</strong>  <strong>粗体</strong></p><p><strong><em>粗斜体</em></strong> <strong><em>粗斜体</em></strong></p><p>上标：X<sub>2</sub>，下标：O<sup>2</sup></p><p><strong>缩写(同HTML的abbr标签)</strong></p><blockquote><p>即更长的单词或短语的缩写形式，前提是开启识别HTML标签时，已默认开启</p></blockquote><p>The <abbr title="Hyper Text Markup Language">HTML</abbr> specification is maintained by the <abbr title="World Wide Web Consortium">W3C</abbr>.</p><h3 id="引用-Blockquotes"><a href="#引用-Blockquotes" class="headerlink" title="引用 Blockquotes"></a>引用 Blockquotes</h3><blockquote><p>引用文本 Blockquotes</p></blockquote><p>引用的行内混合 Blockquotes</p><blockquote><p>引用：如果想要插入空白换行<code>即&lt;br /&gt;标签</code>，在插入处先键入两个以上的空格然后回车即可，<a href="https://www.mdeditor.com/" target="_blank" rel="noopener">普通链接</a>。</p></blockquote><h3 id="锚点与链接-Links"><a href="#锚点与链接-Links" class="headerlink" title="锚点与链接 Links"></a>锚点与链接 Links</h3><p><a href="https://www.mdeditor.com/" target="_blank" rel="noopener">普通链接</a><br><a href="https://www.mdeditor.com/" title="普通链接带标题" target="_blank" rel="noopener">普通链接带标题</a><br>直接链接：<a href="https://www.mdeditor.com" target="_blank" rel="noopener">https://www.mdeditor.com</a><br>[锚点链接][anchor-id]<br>[anchor-id]: <a href="https://www.mdeditor.com/" target="_blank" rel="noopener">https://www.mdeditor.com/</a><br><a href="mailto:test.test@gmail.com" target="_blank" rel="noopener">mailto:test.test@gmail.com</a><br>GFM a-tail link @pandao<br>邮箱地址自动链接 <a href="mailto:test.test@gmail.com" target="_blank" rel="noopener">test.test@gmail.com</a>  <a href="mailto:www@vip.qq.com" target="_blank" rel="noopener">www@vip.qq.com</a></p><blockquote><p>@pandao</p></blockquote><h3 id="多语言代码高亮-Codes"><a href="#多语言代码高亮-Codes" class="headerlink" title="多语言代码高亮 Codes"></a>多语言代码高亮 Codes</h3><h4 id="行内代码-Inline-code"><a href="#行内代码-Inline-code" class="headerlink" title="行内代码 Inline code"></a>行内代码 Inline code</h4><p>执行命令：<code>npm install marked</code></p><h4 id="缩进风格"><a href="#缩进风格" class="headerlink" title="缩进风格"></a>缩进风格</h4><p>即缩进四个空格，也做为实现类似 <code>&lt;pre&gt;</code> 预格式化文本 ( Preformatted Text ) 的功能。</p><pre><code>&lt;?php    echo &quot;Hello world!&quot;;?&gt;</code></pre><p>预格式化文本：</p><pre><code>| First Header  | Second Header || ------------- | ------------- || Content Cell  | Content Cell  || Content Cell  | Content Cell  |</code></pre><h4 id="JS代码"><a href="#JS代码" class="headerlink" title="JS代码"></a>JS代码</h4><pre class=" language-javascript"><code class="language-javascript"><span class="token keyword">function</span> <span class="token function">test</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>    console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token string">"Hello world!"</span><span class="token punctuation">)</span><span class="token punctuation">;</span><span class="token punctuation">}</span>More info<span class="token punctuation">:</span> <span class="token punctuation">[</span>Deployment<span class="token punctuation">]</span><span class="token punctuation">(</span>https<span class="token punctuation">:</span><span class="token operator">/</span><span class="token operator">/</span>hexo<span class="token punctuation">.</span>io<span class="token operator">/</span>docs<span class="token operator">/</span>deployment<span class="token punctuation">.</span>html<span class="token punctuation">)</span></code></pre>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Check2</title>
-      <link href="/2019/07/26/check2/"/>
-      <url>/2019/07/26/check2/</url>
-      
-        <content type="html"><![CDATA[<p>hahaha<br>dkjs<br>fjksaj</p><a id="more"></a>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>lala</title>
-      <link href="/2019/07/26/lalal/"/>
-      <url>/2019/07/26/lalal/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class=" language-bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class=" language-bash"><code class="language-bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><a id="more"></a><pre class=" language-bash"><code class="language-bash">$ hexo generate</code></pre>]]></content>
+        <content type="html"><![CDATA[<h1 id="折腾很久，总算大概建立起来了，但是月份的事还是差一个月没搞定，在github里提了问题了，也不知道能否解决，先这么用吧"><a href="#折腾很久，总算大概建立起来了，但是月份的事还是差一个月没搞定，在github里提了问题了，也不知道能否解决，先这么用吧" class="headerlink" title="折腾很久，总算大概建立起来了，但是月份的事还是差一个月没搞定，在github里提了问题了，也不知道能否解决，先这么用吧"></a>折腾很久，总算大概建立起来了，但是月份的事还是差一个月没搞定，在github里提了问题了，也不知道能否解决，先这么用吧</h1><a id="more"></a><p>周末拉周末拉</p>]]></content>
       
       
       
