@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://shiningblue.net/"/>
-  <updated>2019-07-29T11:17:30.763Z</updated>
+  <updated>2019-07-29T23:38:53.796Z</updated>
   <id>http://shiningblue.net/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>在电脑端安装了hexo admin试试发po</title>
+    <link href="http://shiningblue.net/2019/07/30/%E5%9C%A8%E7%94%B5%E8%84%91%E7%AB%AF%E5%AE%89%E8%A3%85%E4%BA%86hexo-admin%E8%AF%95%E8%AF%95%E5%8F%91po/"/>
+    <id>http://shiningblue.net/2019/07/30/在电脑端安装了hexo-admin试试发po/</id>
+    <published>2019-07-29T23:37:50.000Z</published>
+    <updated>2019-07-29T23:38:53.796Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;安装了hexo admin，这样电脑端编辑post只需要开个网页就行了&lt;/p&gt;
+&lt;p&gt;不用再用编辑器去开post了。&lt;/p&gt;
+&lt;p&gt;话说可以匿名评论的valine在路上。。不知道什么时候好用啊&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>今天修改了新主题</title>
