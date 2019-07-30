@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://shiningblue.net/"/>
-  <updated>2019-07-30T01:53:20.220Z</updated>
+  <updated>2019-07-30T05:01:41.005Z</updated>
   <id>http://shiningblue.net/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://shiningblue.net/2019/07/30/%E6%9B%B4%E6%96%B0%E4%BA%86%E5%8C%BF%E5%90%8D%E7%95%99%E8%A8%80%E5%8A%9F%E8%83%BD/"/>
     <id>http://shiningblue.net/2019/07/30/更新了匿名留言功能/</id>
     <published>2019-07-30T01:51:00.000Z</published>
-    <updated>2019-07-30T01:53:20.220Z</updated>
+    <updated>2019-07-30T05:01:41.005Z</updated>
     
     <summary type="html">
     
@@ -32,6 +32,8 @@
       
     
     </summary>
+    
+      <category term="更新" scheme="http://shiningblue.net/categories/%E6%9B%B4%E6%96%B0/"/>
     
     
       <category term="更新blog" scheme="http://shiningblue.net/tags/%E6%9B%B4%E6%96%B0blog/"/>
