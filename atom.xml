@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://shiningblue.net/"/>
-  <updated>2019-07-29T23:38:53.796Z</updated>
+  <updated>2019-07-29T23:54:58.313Z</updated>
   <id>http://shiningblue.net/</id>
   
   <author>
@@ -17,11 +17,35 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>更新了了tags 和 categories</title>
+    <link href="http://shiningblue.net/2019/07/30/%E6%96%B0%E4%BA%86%E4%BA%86tags-%E5%92%8C-categories/"/>
+    <id>http://shiningblue.net/2019/07/30/新了了tags-和-categories/</id>
+    <published>2019-07-29T23:54:00.000Z</published>
+    <updated>2019-07-29T23:54:58.313Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;加上了tags 和 categories 试试看，不知道能不能把文件夹创立出来呢。。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="更新" scheme="http://shiningblue.net/categories/%E6%9B%B4%E6%96%B0/"/>
+    
+    
+      <category term="更新blog" scheme="http://shiningblue.net/tags/%E6%9B%B4%E6%96%B0blog/"/>
+    
+  </entry>
+  
+  <entry>
     <title>在电脑端安装了hexo admin试试发po</title>
     <link href="http://shiningblue.net/2019/07/30/%E5%9C%A8%E7%94%B5%E8%84%91%E7%AB%AF%E5%AE%89%E8%A3%85%E4%BA%86hexo-admin%E8%AF%95%E8%AF%95%E5%8F%91po/"/>
     <id>http://shiningblue.net/2019/07/30/在电脑端安装了hexo-admin试试发po/</id>
-    <published>2019-07-29T23:37:50.000Z</published>
-    <updated>2019-07-29T23:38:53.796Z</updated>
+    <published>2019-07-29T23:37:00.000Z</published>
+    <updated>2019-07-29T23:52:30.099Z</updated>
     
     <summary type="html">
     
@@ -35,6 +59,10 @@
     
     </summary>
     
+      <category term="更新" scheme="http://shiningblue.net/categories/%E6%9B%B4%E6%96%B0/"/>
+    
+    
+      <category term="更新blog" scheme="http://shiningblue.net/tags/%E6%9B%B4%E6%96%B0blog/"/>
     
   </entry>
   
@@ -42,8 +70,8 @@
     <title>今天修改了新主题</title>
     <link href="http://shiningblue.net/2019/07/29/%E4%BB%8A%E5%A4%A9%E4%BF%AE%E6%94%B9%E4%BA%86%E6%96%B0%E4%B8%BB%E9%A2%98/"/>
     <id>http://shiningblue.net/2019/07/29/今天修改了新主题/</id>
-    <published>2019-07-29T11:15:47.000Z</published>
-    <updated>2019-07-29T11:17:30.763Z</updated>
+    <published>2019-07-29T11:15:00.000Z</published>
+    <updated>2019-07-29T23:51:32.276Z</updated>
     
     <summary type="html">
     
@@ -57,6 +85,10 @@
     
     </summary>
     
+      <category term="更新" scheme="http://shiningblue.net/categories/%E6%9B%B4%E6%96%B0/"/>
+    
+    
+      <category term="更新blog" scheme="http://shiningblue.net/tags/%E6%9B%B4%E6%96%B0blog/"/>
     
   </entry>
   
@@ -64,8 +96,8 @@
     <title>解决了时间显示问题</title>
     <link href="http://shiningblue.net/2019/07/28/%E8%A7%A3%E5%86%B3%E4%BA%86%E6%97%B6%E9%97%B4%E6%98%BE%E7%A4%BA%E9%97%AE%E9%A2%98/"/>
     <id>http://shiningblue.net/2019/07/28/解决了时间显示问题/</id>
-    <published>2019-07-28T02:40:36.000Z</published>
-    <updated>2019-07-29T12:10:54.344Z</updated>
+    <published>2019-07-28T02:40:00.000Z</published>
+    <updated>2019-07-29T23:52:48.915Z</updated>
     
     <summary type="html">
     
@@ -74,6 +106,10 @@
     
     </summary>
     
+      <category term="更新" scheme="http://shiningblue.net/categories/%E6%9B%B4%E6%96%B0/"/>
+    
+    
+      <category term="更新blog" scheme="http://shiningblue.net/tags/%E6%9B%B4%E6%96%B0blog/"/>
     
   </entry>
   
@@ -81,8 +117,8 @@
     <title>暂时先这样吧</title>
     <link href="http://shiningblue.net/2019/07/26/%E6%9A%82%E6%97%B6%E5%85%88%E8%BF%99%E6%A0%B7%E5%90%A7/"/>
     <id>http://shiningblue.net/2019/07/26/暂时先这样吧/</id>
-    <published>2019-07-26T02:25:24.000Z</published>
-    <updated>2019-07-29T12:11:02.941Z</updated>
+    <published>2019-07-26T02:25:00.000Z</published>
+    <updated>2019-07-29T23:53:11.389Z</updated>
     
     <summary type="html">
     
@@ -90,6 +126,8 @@
     
     </summary>
     
+    
+      <category term="更新blog" scheme="http://shiningblue.net/tags/%E6%9B%B4%E6%96%B0blog/"/>
     
   </entry>
   

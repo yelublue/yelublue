@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>更新了了tags 和 categories</title>
+      <link href="/2019/07/30/%E6%96%B0%E4%BA%86%E4%BA%86tags-%E5%92%8C-categories/"/>
+      <url>/2019/07/30/%E6%96%B0%E4%BA%86%E4%BA%86tags-%E5%92%8C-categories/</url>
+      
+        <content type="html"><![CDATA[<p>加上了tags 和 categories 试试看，不知道能不能把文件夹创立出来呢。。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 更新 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 更新blog </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>在电脑端安装了hexo admin试试发po</title>
       <link href="/2019/07/30/%E5%9C%A8%E7%94%B5%E8%84%91%E7%AB%AF%E5%AE%89%E8%A3%85%E4%BA%86hexo-admin%E8%AF%95%E8%AF%95%E5%8F%91po/"/>
       <url>/2019/07/30/%E5%9C%A8%E7%94%B5%E8%84%91%E7%AB%AF%E5%AE%89%E8%A3%85%E4%BA%86hexo-admin%E8%AF%95%E8%AF%95%E5%8F%91po/</url>
@@ -11,6 +36,18 @@
         <content type="html"><![CDATA[<p>安装了hexo admin，这样电脑端编辑post只需要开个网页就行了</p><p>不用再用编辑器去开post了。</p><p>话说可以匿名评论的valine在路上。。不知道什么时候好用啊</p>]]></content>
       
       
+      <categories>
+          
+          <category> 更新 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 更新blog </tag>
+            
+        </tags>
       
     </entry>
     
@@ -24,6 +61,18 @@
         <content type="html"><![CDATA[<p><strong>老的主题怎么用都不舒服，下决心换了next</strong></p><p>不过貌似标题还是不能还字体和颜色啊，不知道怎么弄。</p><p>又要慢慢摸索了。。</p>]]></content>
       
       
+      <categories>
+          
+          <category> 更新 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 更新blog </tag>
+            
+        </tags>
       
     </entry>
     
@@ -37,6 +86,18 @@
         <content type="html"><![CDATA[<p>和模板作者发了issue，解决了月份显示错误的问题。</p><p><img src="//shiningblue.net/2019/07/28/解决了时间显示问题/201907281003.png" alt></p><a id="more"></a><p>还有很多东西要研究的呢.</p>]]></content>
       
       
+      <categories>
+          
+          <category> 更新 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 更新blog </tag>
+            
+        </tags>
       
     </entry>
     
@@ -50,6 +111,12 @@
         <content type="html"><![CDATA[<p>折腾很久，总算大概建立起来了，但是月份的事还是差一个月没搞定，在github里提了问题了，也不知道能否解决，先这么用吧</p><a id="more"></a><p>周末拉周末拉</p>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> 更新blog </tag>
+            
+        </tags>
       
     </entry>
     
