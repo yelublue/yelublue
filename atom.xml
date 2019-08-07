@@ -2,17 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Shining Blue</title>
   
-  <subtitle>Blue&#39;s Home</subtitle>
+  <subtitle>逍遙遊 戲人生</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://shiningblue.net/"/>
   <updated>2019-08-06T04:54:50.241Z</updated>
   <id>http://shiningblue.net/</id>
-  
-  <author>
-    <name>Shining Blue</name>
-    
-  </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
